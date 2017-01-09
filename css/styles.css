@@ -12,6 +12,7 @@ a{
 #title{
   padding: 100px;
   background-image: url(../guy.GIF);
+  position: fixed;
 }
 
 #title-text{
